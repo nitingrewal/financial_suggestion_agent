@@ -1,0 +1,19 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+.venv/
+env/
+.pytest_cache/
+
+# Agent local state & caches
+.agent_file_cache.json
+.scalable_accounts.json
+.completed_actions.json
+.pending_actions.json
+
+# Generated reports & user data files
+agent_portfolio_report.html
+*.csv
+*.xlsx
+*.pdf
+*.json
