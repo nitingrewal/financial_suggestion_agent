@@ -26,4 +26,5 @@ An autonomous, multi-agent financial advisor and portfolio auditing tool built w
 ```
 4. Run the agent:
 ```bash
-python main.py```
+python main.py
+```
