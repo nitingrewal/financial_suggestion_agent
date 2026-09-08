@@ -20,3 +20,9 @@ An autonomous, multi-agent financial advisor and portfolio auditing tool built w
    ```bash
    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
    cd your-repo-name
+2. Install dependencies:   
+``bash
+pip install pandas pypdf pillow langchain-openai langchain-core rich markdown yfinance pytesseract
+4. Run the agent:
+``bash
+python main.py
